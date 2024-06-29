@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @xwb666
+- 👀 I’m interested in Animation
+- 🌱 I'm a student fome China.
+-📫 Reach me in 2218442392@qq.com
+-xwb666/xwb666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-You can click the Preview link to take a look at your changes.
+--->
